@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074940566160",
+    "project_id": "datamahasiswarda",
+    "storage_bucket": "datamahasiswarda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074940566160:android:e46219c37349cedda1d615",
+        "android_client_info": {
+          "package_name": "com.risma.datamahasiswarda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074940566160-vggveasscei6ethaebm8g191cflo62sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9hgKs-8_Ese5nN90JUfHogODP9PtbgGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074940566160-vggveasscei6ethaebm8g191cflo62sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
